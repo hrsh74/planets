@@ -1,3 +1,11 @@
 What's the weather forecast?
+<<<<<<< HEAD
 That will be great tomorrow.
 
+=======
+ring around the planet's collar.
+>>>>>>> febe8470ba19212d8fac154fa42868d8c06edfb4
+
+
+--------------------------------------------------
+It works.
